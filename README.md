@@ -21,3 +21,11 @@ X5 = I am satisfied with my courier
 X6 = the app makes ordering easy for me
 
 Attributes X1 to X6 indicate the responses for each question and have values from 1 to 5 where the smaller number indicates less and the higher number indicates more towards the answer.
+
+Methodology 
+•	Performed exploratory data analysis on the dataset to summarize the dataset’s main characteristics.
+•	Implemented various ML models (SVM, Decision Tree, Random Forest, Logistic Regression, KNN).
+
+summary 
+• SVM excelled with 78% accuracy and 0.8 f1-score.
+
